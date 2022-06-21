@@ -228,7 +228,7 @@ body {
     height: 120px;
     justify-content: center;
     align-items: center;
-    background-color: var(--nav-button-backgroud-color);
+    background-color: var(--second-bg-color--);
     border-radius: 4px;
     margin-bottom: 30px;
 }
